@@ -192,7 +192,8 @@ img {
   width: 6.25rem;
   background-size: 50%;
   position: relative;
-  left: -25px;
+  left: -15px;
+  bottom: -15px;
   margin-right: 2rem;
   background-image: url("/public/rat 1.png");
   z-index: 2;
@@ -310,12 +311,12 @@ img {
   height: 6.25rem;
   width: 6.25rem;
   background-size: 50%;
-  position: relative;
-  left: -25px;
+  position: absolute;
+  left: -15px;
+  bottom: -60px;
   margin-right: 2rem;
   background-image: url("/public/rat 2.png");
   z-index: 2;
-  padding: 3rem;
   background-repeat: no-repeat;
   -webkit-animation: bounce-top 1.1s both;
   animation: bounce-top 1.1s both;
